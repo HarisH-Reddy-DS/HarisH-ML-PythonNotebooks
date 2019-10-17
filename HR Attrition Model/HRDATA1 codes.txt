@@ -1,0 +1,33 @@
+Attrition   		yes=1,    No=0
+
+Relationship Satisfaction	low=1, medium=2,High=3,VryHigh=4
+
+Performance		Excellent=1,outstanding=2
+
+work life balance		Bad=1,good=2,better=3,best=4
+
+
+Environment Satisfaction	low=1, medium=2,High=3,VryHigh=4
+
+job satisfaction		low=1, medium=2,High=3,VryHigh=4
+
+job invovement		low=1, medium=2,High=3,VryHigh=4
+
+
+business travell		non-trvl=0,trvl-rarely=1,trvl-freq=2
+
+education field		humanresoures=1,lifesienes=2,mrkting=3,Medical=4,
+			other=5,tehincaldegree=6
+
+Education			belowclg=1,clg=2,bachelor=3,master=4,doc=5
+
+martial status		single=1,married=2,divorced=3
+
+gender			male=1,female=0
+
+jobrole			healthcare rep=1,hr=2,labtec=3,manager=4,
+			mfddirector=5,pesearch director=6,rescientist=7
+			sales executive=8,salesrep=9
+
+DEpt			HR=1,R&d=2,Sales=3
+	
